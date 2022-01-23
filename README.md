@@ -18,4 +18,4 @@ Aqui estão os links para executar o projeto
 <br>
 <a href="https://www.futurecodersweb.com/2021/05/glowing-neon-buttons-using-html-and-css.html">Post no blog sobre o desafio<a/>
 <br>
-<a href="https://fordunn.github.io/Ballebot-Landingpage/">Link do site hospedado<a/>
+<a href="https://fordunn.github.io/Desafio-Botao-neon-css/">Link do site hospedado<a/>
