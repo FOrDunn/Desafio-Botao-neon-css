@@ -1,6 +1,6 @@
 # Desafio-Botao-neon-css
 
-<img src="image_2022-01-23_191506.png" alt="exemplo imagem">
+<img src="Readme-img-botoes-neon.png" alt="exemplo imagem">
 
 > Desafio de criar uma animação neon para botoes com apenas html e css
 
